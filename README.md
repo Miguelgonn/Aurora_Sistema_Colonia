@@ -129,15 +129,22 @@ Este projeto foi desenvolvido com foco em:
 - desenvolver raciocínio lógico;
 - criar soluções automatizadas para ambientes complexos.
 
-
 ## ▶️ Como Executar o Projeto
 
 ### Clone o repositório
 
+```bash
 git clone https://github.com/Miguelgonn/Aurora_Sistema_Colonia.git
+```
 
-Abra o arquivo:
+### Acesse a pasta do projeto
 
-Aurora-Colônia.py
+```bash
+cd Aurora_Sistema_Colonia
+```
 
-E execute as células em ordem.
+### Execute o sistema
+
+```bash
+python Aurora-Colônia.py
+```
