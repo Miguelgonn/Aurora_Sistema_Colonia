@@ -130,3 +130,9 @@ Este projeto foi desenvolvido com foco em:
 - criar soluções automatizadas para ambientes complexos.
 
 
+## ▶️ Como Executar o Projeto
+
+### Clone o repositório
+
+```bash
+git clone https://github.com/Miguelgonn/Aurora_Sistema_Colonia.git
