@@ -134,5 +134,10 @@ Este projeto foi desenvolvido com foco em:
 
 ### Clone o repositório
 
-```bash
 git clone https://github.com/Miguelgonn/Aurora_Sistema_Colonia.git
+
+Abra o arquivo:
+
+Aurora-Colônia.py
+
+E execute as células em ordem.
