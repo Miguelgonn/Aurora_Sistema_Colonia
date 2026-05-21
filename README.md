@@ -129,6 +129,28 @@ Este projeto foi desenvolvido com foco em:
 - desenvolver raciocínio lógico;
 - criar soluções automatizadas para ambientes complexos.
 
+## 🖥️ Exemplo de Execução
+
+```bash
+==================================================
+🚀 AURORA SIGER — SISTEMA DA COLÔNIA MARCIANA
+==================================================
+
+☀️ Geração Solar: 52 kWh
+🌪️ Geração Eólica: 18 kWh
+🔋 Nível da Bateria: 37%
+
+⚠️ Déficit energético detectado
+
+Ações executadas:
+✔ Suspensão do laboratório
+✔ Economia de energia ativada
+✔ Priorização de módulos essenciais
+
+📈 Previsão energética:
+Consumo previsto: 89 kWh
+```
+
 ## ▶️ Como Executar o Projeto
 
 ### Clone o repositório
