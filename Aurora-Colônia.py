@@ -95,8 +95,10 @@ def calcular_consumo_total(colonia: dict) -> float:
     for modulo in op["habitats"].values():
         if modulo["status"] == "ativo":
             total += modulo["consumo"]
-    total += op["laboratorio"]["consumo"]
-    total += op["comunicacoes"]["consumo"]
+    if op["laboratorio"]["status"] == "ativo":
+        total += op["laboratorio"]["consumo"]
+    if op["comunicacoes"]["status"] == "ativo":
+        total += op["comunicacoes"]["consumo"]
     return total
 
 
