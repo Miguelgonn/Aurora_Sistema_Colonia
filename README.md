@@ -1,6 +1,6 @@
 # 🚀 Aurora Siger — Sistema Inteligente de Gerenciamento da Colônia Marciana
 
-Sistema computacional desenvolvido em **Python** para gerenciamento autônomo da colônia marciana **Aurora Siger**.
+Sistema computacional desenvolvido em **Python** para gerenciamento inteligente e autônomo da colônia marciana **Aurora Siger**.
 
 O projeto simula o funcionamento de uma base em Marte utilizando conceitos fundamentais de programação, lógica computacional e modelagem de dados, permitindo o controle inteligente de recursos essenciais para a sobrevivência da colônia.
 
