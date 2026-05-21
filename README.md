@@ -130,13 +130,3 @@ Este projeto foi desenvolvido com foco em:
 - criar soluções automatizadas para ambientes complexos.
 
 
-## 🚀 Possíveis Expansões Futuras
-
-- interface gráfica;
-- integração com banco de dados;
-- inteligência artificial;
-- monitoramento em tempo real;
-- sistema web;
-- comunicação entre módulos da colônia.
-
-
