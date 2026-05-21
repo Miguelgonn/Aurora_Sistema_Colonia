@@ -170,3 +170,5 @@ cd Aurora_Sistema_Colonia
 ```bash
 python Aurora-Colônia.py
 ```
+
+## 📷 Prints da execução
