@@ -172,3 +172,30 @@ python Aurora-Colônia.py
 ```
 
 ## 📷 Prints da execução
+
+<img width="1852" height="687" alt="image" src="https://github.com/user-attachments/assets/7bda6e7d-73ec-4f12-ae41-b55a54748e9e" />
+<img width="1850" height="456" alt="image" src="https://github.com/user-attachments/assets/a1616962-5786-418c-bc4f-55bd30315b7b" />
+<img width="1845" height="844" alt="image" src="https://github.com/user-attachments/assets/41fc5336-0c36-4c86-86b5-0ee790755c08" />
+<img width="1856" height="864" alt="image" src="https://github.com/user-attachments/assets/fdbc1283-b55d-4039-beb4-2dbb0709bf96" />
+<img width="1849" height="864" alt="image" src="https://github.com/user-attachments/assets/ba4aaad3-e42d-46b9-8c35-e8461a01b850" />
+<img width="1835" height="850" alt="image" src="https://github.com/user-attachments/assets/7b646e07-c145-4590-8377-b60e74fd3c68" />
+<img width="1857" height="715" alt="image" src="https://github.com/user-attachments/assets/b6d5659a-0ebd-4d4e-bcd0-12cf5864ddcd" />
+<img width="1841" height="830" alt="image" src="https://github.com/user-attachments/assets/6d92d66d-4f77-4857-b034-f5ce008ad81d" />
+<img width="1836" height="500" alt="image" src="https://github.com/user-attachments/assets/580cdbbc-df4d-41d3-9d26-ab9c2fc67fe6" />
+<img width="1850" height="715" alt="image" src="https://github.com/user-attachments/assets/94055710-1515-4efd-8965-3f077a7e7224" />
+<img width="1808" height="809" alt="image" src="https://github.com/user-attachments/assets/8f319610-ba89-4a21-8bdf-65d35343fb09" />
+<img width="1828" height="371" alt="image" src="https://github.com/user-attachments/assets/0503e177-f0b3-470c-b1f5-dee8a4138c5c" />
+<img width="1841" height="654" alt="image" src="https://github.com/user-attachments/assets/ac8e3338-f419-45f4-adba-51b3a1e0a382" />
+<img width="1835" height="813" alt="image" src="https://github.com/user-attachments/assets/50d1a40f-55cf-4ad0-a408-2875ef93f7b9" />
+
+
+
+
+
+
+
+
+
+
+
+
